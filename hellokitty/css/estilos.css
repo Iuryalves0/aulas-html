@@ -1,0 +1,50 @@
+
+body{
+    background-size: cover;
+    background-color:rgb(230, 151, 202);
+}
+
+img{
+    height: 400px;
+}
+
+.fotos{
+    width: fit-content;
+    margin: auto;
+}
+video {
+        width: 40%;
+        display: block;
+        margin: auto;
+        border: 5px solid rgb(226, 107, 180);
+    }
+
+p{
+    margin: auto;
+    width: 50%;
+    font-size: 17px;
+    font-family: cursive;
+    color: #ffffff;
+}
+
+hr{
+    width: 60%;
+    height: 10px;
+    background-color:rgb(235, 110, 187);
+    border: 2px solid rgb(226, 107, 180);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+h2{
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+}
+h3{
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+}
